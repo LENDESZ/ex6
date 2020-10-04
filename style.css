@@ -1,0 +1,68 @@
+#conteneur
+{
+    display: flex;
+    width: 100%;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    height: 700px;
+}
+#conteneur1
+{
+    display: flex;
+    width: 100%;
+    height: 50px;
+}
+.bloc11 {
+    background-color: mediumseagreen;
+    width: 80%;
+    height: 50px;
+}
+.bloc12 {
+    background-color: blue;
+    width: 20%;
+    height: 50px;
+}
+
+.bloc31 {
+    background-color: red;
+    width: 40%;
+    height:160px;
+}
+
+#conteneur2
+{
+    display: flex;
+    flex-wrap: wrap;
+    width: 60%;
+    height: 160px;   
+}
+.bloc32 {
+    background-color: orange;
+    width: 50%;
+    height: 80px;
+}
+.bloc33 {
+    background-color: grey;
+    width: 50%;
+    height: 80px;
+}
+.bloc42 {
+    background-color: rgb(51, 19, 7);
+    width: 35%;
+    height: 80px;
+}
+.bloc43 {
+    background-color: olivedrab;
+    width: 35%;
+    height: 80px;
+}
+.bloc44 {
+    background-color: maroon;
+    width: 30%;
+    height: 80px;
+}
+.bloc51 {
+    background-color: darkblue;
+    width: 100%;
+    height: 300px;
+}
