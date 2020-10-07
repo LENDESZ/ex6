@@ -1,10 +1,17 @@
-#conteneur
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+#mainBox
 {
     display: flex;
     width: 100%;
     align-content: flex-start;
     flex-wrap: wrap;
-    height: 350px;
+    height: 50%;
 }
 
 .bloc11 {
@@ -24,7 +31,7 @@
     height: 30%;
 }
 
-#conteneur1
+#box
 {
     display: flex;
     flex-wrap: wrap;
